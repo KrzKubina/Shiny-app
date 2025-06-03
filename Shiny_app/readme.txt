@@ -1,3 +1,6 @@
+Aby zobaczyć wygląd aplikacji można skorzystać z poniższego linku:
+https://kkubina.shinyapps.io/shiny_app/
+
 # Aplikacja Shiny – Analiza Zespołów NBA
 
 Projekt stworzony w języku R przy użyciu pakietu **Shiny**. Aplikacja umożliwia interaktywną analizę danych dotyczących zespołów NBA oraz statystyk zawodników z wybranych sezonów.
