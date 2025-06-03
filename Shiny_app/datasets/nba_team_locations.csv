@@ -1,0 +1,31 @@
+TEAM_ABBREVIATION,TEAM_NAME,CITY,STATE,LAT,LON,STATE_short,Konferencja
+ATL,Atlanta Hawks,Atlanta,Georgia,33.7573,-84.3963,GA,Wschód
+BOS,Boston Celtics,Boston,Massachusetts,42.3662,-71.0621,MA,Wschód
+BKN,Brooklyn Nets,Brooklyn,New York,40.6826,-73.9754,NY,Wschód
+CHA,Charlotte Hornets,Charlotte,North Carolina,35.2251,-80.8392,NC,Wschód
+CHI,Chicago Bulls,Chicago,Illinois,41.8807,-87.6742,IL,Wschód
+CLE,Cleveland Cavaliers,Cleveland,Ohio,41.4965,-81.6882,OH,Wschód
+DAL,Dallas Mavericks,Dallas,Texas,32.7905,-96.8104,TX,Zachód
+DEN,Denver Nuggets,Denver,Colorado,39.7487,-105.0076,CO,Zachód
+DET,Detroit Pistons,Detroit,Michigan,42.341,-83.0552,MI,Wschód
+GSW,Golden State Warriors,San Francisco,California,37.768,-122.3877,CA,Zachód
+HOU,Houston Rockets,Houston,Texas,29.7508,-95.3621,TX,Zachód
+IND,Indiana Pacers,Indianapolis,Indiana,39.7639,-86.1555,IN,Wschód
+LAC,LA Clippers,Los Angeles,California,34.043,-118.2673,CA,Zachód
+LAL,Los Angeles Lakers,Los Angeles,California,34.043,-118.2673,CA,Zachód
+MEM,Memphis Grizzlies,Memphis,Tennessee,35.1382,-90.0506,TN,Zachód
+MIA,Miami Heat,Miami,Florida,25.7814,-80.187,FL,Wschód
+MIL,Milwaukee Bucks,Milwaukee,Wisconsin,43.0451,-87.9172,WI,Wschód
+MIN,Minnesota Timberwolves,Minneapolis,Minnesota,44.9795,-93.2638,MN,Zachód
+NOP,New Orleans Pelicans,New Orleans,Louisiana,29.9499,-90.081,LA,Zachód
+NYK,New York Knicks,New York,New York,40.7505,-73.9934,NY,Wschód
+OKC,Oklahoma City Thunder,Oklahoma City,Oklahoma,35.4634,-97.5151,OK,Zachód
+ORL,Orlando Magic,Orlando,Florida,28.5392,-81.3839,FL,Wschód
+PHI,Philadelphia 76ers,Philadelphia,Pennsylvania,39.9012,-75.172,PA,Wschód
+PHX,Phoenix Suns,Phoenix,Arizona,33.4457,-112.0712,AZ,Zachód
+POR,Portland Trail Blazers,Portland,Oregon,45.5316,-122.6668,OR,Zachód
+SAC,Sacramento Kings,Sacramento,California,38.5802,-121.4997,CA,Zachód
+SAS,San Antonio Spurs,San Antonio,Texas,29.426,-98.4375,TX,Zachód
+TOR,Toronto Raptors,Toronto,Ontario ,43.6435,-79.3791,ON,Wschód
+UTA,Utah Jazz,Salt Lake City,Utah,40.7683,-111.9016,UT,Zachód
+WAS,Washington Wizards,Washington,District of Columbia,38.8981,-77.0209,DC,Wschód
